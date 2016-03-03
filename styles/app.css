@@ -1,0 +1,49 @@
+h1, h2 {
+  font-weight: 100;
+  text-transform: uppercase;
+  letter-spacing: .2px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h4, h5, h6 {
+  font-weight: 400;
+}
+
+.emphasize {
+  text-transform: uppercase;
+}
+
+.divider {
+  border-top: 12px solid #cccccc;
+  padding: 12px 5px 0;
+  line-height: 2em;
+}
+
+.text-small {
+  font-size: 80%;
+}
+
+.product {
+  padding: 30px;
+  border-top: 2px solid #cccccc;
+  border-bottom: 2px solid #cccccc;
+}
+
+.productContainer {
+  border-top: 8px solid #dddddd;
+  padding: 10px 0;
+}
+
+.link {
+  display: inline-block;
+  margin: 15px 5px 0 5px;
+  padding-right: 5px;
+  border-right: 1px solid #cccccc;
+}
+
+footer {
+  margin-bottom: 20px;
+}
